@@ -1,0 +1,405 @@
+<!doctype html>
+<html class="v_scrollbar">
+<head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+    <title>积木盒子-轻松投</title>
+    <meta name="keywords" content="投标出借, 互联网金融, 网络投融资平台, 网络借贷, 互联网借贷, 积木盒子,轻松投, jimu.com"/>
+    <meta name="description" content="轻松投,轻松、便捷的互联网借贷新方式"/>
+    <meta name="author" content="乐融多源(北京)科技有限公司" />
+    <!-- start: Mobile Specific -->
+    <meta name="apple-itunes-app" content="app-id=790276804">
+    <link rel="apple-touch-icon-precomposed" sizes="114x114" href="Content/img/appicon114-e316198f0e.png">
+    <link rel="apple-touch-icon-precomposed" sizes="72x72" href="/Content-dist/img/appicon72-b8db4af724.png">
+    <link rel="apple-touch-icon-precomposed" href="/Content-dist/img/appicon-bcf4e34e3c.png">
+    <meta name="baidu-site-verification" content="23e805e02562d501312d9751851b71e6"/>
+    <!-- end: Mobile Specific -->
+    <meta property="wb:webmaster" content="9fd1b56cebfec3b3"/>
+    <meta name="renderer" content="webkit|ie-comp|ie-stand">
+    <!-- start: Fav Icon -->
+    <link href="/Images-dist/favicon-f824e20afc.ico" rel="shortcut icon" type="image/x-icon" />
+    <!-- end: Fav Icon -->
+
+    <!-- start: Style -->
+    <link href="/Content-dist/dest/modules/general/index-c1d3f6c9ea.css" rel="stylesheet"/>
+    <link href="/Content-dist/dest/modules/venus/index-5700834557.css" rel="stylesheet"/>
+<!--[if lt IE 9 ]>
+    <link href="/Content-dist/style-ie-f145eccf98.css" rel="stylesheet">
+    <![endif]-->
+    <!--[if IE 9 ]>
+    <link href="/Content-dist/style-ie9-45e9e6e599.css" rel="stylesheet">
+    <![endif]-->
+    <!-- end: Style -->
+
+    <!-- start: Script -->
+    <script type="text/javascript">
+        (function () {
+            if (navigator.userAgent.indexOf("MSIE 7.") > 0) {
+                location.href = '/Prompt/Obsolete';
+            }
+        })();
+    </script>
+
+    <!-- Le HTML5 shim, for IE6-8 support of HTML5 elements -->
+    <!--[if lt IE 9]>
+    <script src="/Scripts-dist/html5-e1019d667d.js" type="text/javascript"></script>
+    <script src="/Scripts-dist/excanvas-c9bcc9f465.js" type="text/javascript"></script>
+    <script src="/Scripts-dist/excanvas-8c845e87e2.compiled.js" type="text/javascript"></script>
+
+    <![endif]-->
+    <!-- end: Script -->
+    </head>
+<body>
+    
+<link href="https://page.jimu.com/content-dist/css/index-c1e270ac05.css" rel="stylesheet"/>
+<div id="jimu-sup-header" class="jimu-sup-header">
+  <div class="container">
+    <div class="contactus">
+      <div class="phone-wrap phone-wrap-#logo_site"><span>为了您有更好的咨询体验，建议选择<a href="https://box.jimu.com/Help/Service" style="color:#ddd;border-bottom:1px solid #ddd">在线客服</a></span><span class="jimu">客服热线：400-628-1176
+          <!--strong 400-628-1176--></span><span>服务时间：9:00 - 21:00</span></div>
+    </div>
+    <div class="sup-nav-other">
+      <ul>
+        <li><a href="https://www.jimu.com/Home/LenderEdu" target="_blank">出借人教育</a></li>
+        <li><a href="https://info.jimu.com" target="_blank">运营数据</a></li>
+        <li><a href="https://www.jimu.com/BBS" target="_blank">积木坛子</a></li>
+        <li class="download"><a href="https://campaigns.jimu.com/mobile-intro/" target="_blank">下载客户端</a>
+          <div class="qr-container"><img src="https://page.jimu.com/content-dist/images/default/icon-684a9603cd.png" alt="积木"/>
+            <h3>积木盒子</h3><img src="https://page.jimu.com/content-dist/images/download-49cf19d568.png" alt="下载"/>
+            <p>手机投资·方便快捷</p>
+          </div>
+        </li>
+        <li><a href="https://www.jimu.com/User/Login">登录</a></li>
+        <li><a href="https://www.jimu.com/User/Register?RedirectUrl=https://box.jimu.com/User/OpenPaymentAccount">注册</a></li>
+      </ul>
+    </div>
+  </div>
+</div>
+<div id="jimu-header" class="jimu-header">
+  <div class="container">
+    <div class="logo"><a href="https://www.jimu.com"><img src="https://page.jimu.com/content-dist/images/default/logo_nav_full-9b4d613b2f.png" alt="积木"/></a></div>
+    <div class="jimu-nav-wrap">
+      <ul>
+        <li><a href="https://www.jimu.com" data-nav="home"><span>首页</span></a></li>
+        <li><a href="https://box.jimu.com/Venus/List" data-nav="venus"><span>轻松投</span></a></li>
+        <li><a href="https://box.jimu.com/Project/List" data-nav="p2p"><span>自选投</span></a></li>
+        <!--li-->
+        <!--    a(href='https://loan.jimu.com', data-nav='loan')-->
+        <!--        span 借款-->
+        <li><a href="https://www.jimu.com/Home/About" data-nav="about"><span>信息披露</span></a></li>
+        <li class="pull-right"><a href="https://www.jimu.com/User/AssetOverview" data-nav="account"><span>我的积木</span></a></li>
+      </ul>
+    </div>
+  </div>
+</div>
+<div class="online-service hidden-phone"><a href="https://box.jimu.com/Help/Center" target="_blank" class="online-service-title">
+    <div class="social-qq-pure"></div>
+    <h4>在线客服</h4></a></div><!--[if lt IE 9 ]>
+<link href="https://page.jimu.com/content-dist/css/style-ie-0924570aba.css" rel="stylesheet"/>
+<script src="https://page.jimu.com/content-dist/modules/ie-dialog-9d0df69a93.js"></script><![endif]-->
+<script src="https://page.jimu.com/content-dist/modules/sup-header/header-init-8dc16d38ce.js"></script><div class="alert-info">
+        <div class="container">
+            </div>
+    </div>
+    <input type="hidden" value="361320" id="venusId">
+    <div class="venus-detail" data-version="1">
+        <div class="container clearfix">
+            <div class="info-left">
+                <h2>新手专享15天20180603-2</h2>
+                <div class="project-warning">
+                    <div class="tip">
+                        盒子提醒您：投资有风险
+                    </div>
+                </div>
+                <div class="venus-info clearfix">
+                    <div class="detail">
+                        <div class="data">
+                            5.8+4<span>%</span>
+                        </div>
+                        <div class="tip">目标利率(年化)<span class="tip-icon">!</span><span class="tip-info">目标利率不代表实际收益，出借需谨慎</span></div>
+                    </div>
+                    <div class="detail">
+                        <div class="data">15<span>天</span></div>
+                        <div class="tip">投资期限</div>
+                    </div>
+                    <div class="detail">
+                        <div class="data">
+                            269<span>万</span>
+                        </div>
+                        <div class="tip">本期金额</div>
+                    </div>
+                </div>
+                <div class="venus-line">
+                    <div class="line-rate line-green" style="width: 700px">
+                                <div class="rate-word" data-is-closed="true">
+                                    100%
+                                </div>
+                            </div>
+                        </div>
+                <div class="venus-tips">
+                    最低加入金额 1,000元，
+                    上限100,000元，
+                    每万元预期收益<span class="money">22.55</span>元
+                    <span class="venus-tips-icon">!<span class="tip-hover">每万元收益再投资计算的预期收益</span></span>
+                </div>
+                <div class="venus-flow">
+                    <div class="flow-pic"><img src="/Images-dist/Venus/detail_flow-81adbde008.png"></div>
+                    <div class="flow-word">
+                        <span class="join">加入轻松投</span>
+                        <span class="com">完成投标</span>
+                        <span class="fin">投资结束</span>
+                        <span class="quit">退出操作</span>
+                    </div>
+                </div>
+                <div class="card-container">
+                    <div class="card-head" id="card-head">
+                        <div class="tab active" data-attr="intro">产品介绍</div>
+                        <div class="tab" data-attr="projects">项目信息</div>
+                        <div class="tab" data-attr="mark">加入记录</div>
+                        <div class="tab" data-attr="question">常见问题</div>
+                    </div>
+                    <div class="card-body">
+                        <div class="intro" id="intro">
+                            <dl class="clearfix">
+                                <dt>名称</dt>
+                                <dd>新手专享15天20180603-2</dd>
+                            </dl>
+                            <dl class="clearfix">
+                                <dt>工具介绍</dt>
+                                <dd>轻松投为积木盒子平台新推出的一款高效、自动投标工具，经由用户授权后通过系统为用户完成自动投标，不仅满足了用户方便快捷地进行投标的需求，进而达到更加有效有进行资金规划的目的。使用本工具所投产品目标利率不代表实际收益，用户需自行承担资金出借的风险与责任。网贷有风险，出借需谨慎。</dd>
+                            </dl>
+                            <dl class="clearfix">
+                                <dt>投标范围</dt>
+                                <dd>根据用户加入时选定的产品要素为依据，对符合要求的融资项目进行自动投标。为避免打扰用户，回款信息不以短信方式通知但在用户轻松投账户内可查询。</dd>
+                            </dl>
+                            <dl class="clearfix">
+                                <dt>收益处理方式及目标利率</dt>
+                                <dd>
+                                    <ol>
+                                        <li>
+                                                到期支付5.80
+                                                    + 4%(年化)
+                                            </li>
+                                        </ol>
+                                </dd>
+                            </dl>
+                            <dl class="clearfix">
+                                <dt>封闭期</dt>
+                                <dd>15天</dd>
+                            </dl>
+                            <dl class="clearfix">
+                                <dt>加入条件</dt>
+                                <dd>
+                                    <span style="color:#edb449">新手专享限未在平台投资过的用户加入；</span>
+                                    
+                                    最低加入金额1,000元，单期最高加入限额100,000元。
+                                </dd>
+                            </dl>
+                            <dl class="clearfix">
+                                <dt>加入开始时间</dt>
+                                <dd>每日06:00:00开始</dd>
+                            </dl>
+                            <dl class="clearfix">
+                                <dt>加入截止时间</dt>
+                                <dd>2018年6月03日 23:00:00</dd>
+                            </dl>
+                            <dl class="clearfix">
+                                <dt>到期时间</dt>
+                                <dd>2018年6月17日</dd>
+                            </dl>
+                            <dl class="clearfix">
+                                <dt>到期退出方式</dt>
+                                <dd>系统于约定退出日期发起债权转让以实现退出目的。用户持有的债权转让完成的具体时间视交易情况而定，未能成功出让的债权将由用户继续持有，系统自动再次甚至多次发起债权转让，直至用户成功退出，退出完成前，资产利息归用户享有。</dd>
+                            </dl>
+                            <dl class="clearfix">
+                                <dt>提前退出方式</dt>
+                                <dd>封闭期结束后，投资期限到期前，支持提前退出。经用户申请并同意支付提前退出费用后，系统依据用户指令发起债权转让以实现退出目的。用户持有的债权转让完成的具体时间视交易情况而定，未能成功出让的债权将由用户继续持有，系统自动再次甚至多次发起债权转让，直至用户成功退出，退出完成前，资产利息归用户享有。</dd>
+                            </dl>
+                            <dl class="clearfix">
+                                <dt>费用</dt>
+                                <dd>提前退出费为加入金额 x 2.00%。管理费用参见<a href="https://contract.jimu.com/Contract/venusTemplate?ruleID=361320" target="_blank">《轻松投服务协议》</a></dd>
+                            </dl>
+                            <dl class="clearfix">
+                                <dt>保障方式</dt>
+                                <dd>加入穹顶计划的项目，享有<a href="https://box.jimu.com/Guarantee/Dome" target="_blank">《穹顶计划说明》</a>保障。</dd>
+                            </dl>
+                            <dl class="clearfix">
+                                <dt>服务说明</dt>
+                                <dd>
+                                    <a href="https://contract.jimu.com/Contract/venusTemplate?ruleID=361320" target="_blank">《轻松投服务协议》</a>
+                                    <a href="https://www.jimu.com/User/Agreement" target="_blank">《风险提示及承诺》</a>
+                                </dd>
+                            </dl>
+                            <div class="plantform-tips-words">目标利率不代表实际收益，出借需谨慎</div>
+                        </div>
+                        <div class="projects" id="projects">
+                            <table>
+                                <thead>
+                                <tr>
+                                    <th>项目编号</th>
+                                    <th>融资方</th>
+                                    <th>身份证号</th>
+                                    <th class="text-right">借款金额</th>
+                                    <th class="right">操作</th>
+                                </tr>
+                                </thead>
+                                <tbody id="project-list">
+
+                                </tbody>
+                            </table>
+                            <div class="pagination pagination-center" id="projectPages">
+
+                            </div>
+                        </div>
+                        <div class="mark" id="mark">
+                            <table>
+                                    <thead>
+                                    <tr>
+                                        <th>投资人</th>
+                                        <th class="right">加入金额</th>
+                                        <th class="center">来源</th>
+                                        <th class="right">加入时间</th>
+                                    </tr>
+                                    </thead>
+                                    <tbody id="invest-list">
+
+                                    </tbody>
+                                </table>
+                                <div class="pagination pagination-center" id="pages">
+
+                                </div>
+                            </div>
+                        <div class="question" id="question">
+                            <p><span class="title">什么时间开始计算收益？</span><br/><span>加入轻松投后，即可开始自动投标，成功匹配项目的金额，次日开始计算收益。</span></p>
+                            <p><span class="title">收益处理方式？</span><br/><span>根据用户加入时选定轻松投类型的产品要素为依据，本金或本息循环再投资。投资到期或提前退出，系统通过债权转让方式进行退出，债权转让情况根据交易情况而定。成功债转的本金和收益会回到用户可用余额。</span></p>
+                            <p><span class="title">轻松投都投资什么产品？</span><br/><span>加入资金投资到积木平台上按照严格的风险控制标准核准通过的融资项目。</span></p>
+                            <p><span class="title">何时可以退出？</span><br/><span>封闭期结束后，投资到期前，可申请提前退出。<br/>根据轻松投不同类型，封闭期不同。以不同类型轻松投详情页的封闭期时间为准。</span></p>
+                            <p><span class="title">到期退出后，资金何时回到账户</span><br/><span>投资到期后，系统通过债权转让的方式进行退出，具体退出完成时间视交易情况而定，尚未退出金额享有收益。<br/>当日成功债转的回款金额，将在当日回到用户可用余额。</span></p>
+                            <div><span>积木盒子仅为信息发布平台，未以任何明示或暗示的方式对出借人提供担保或承诺保本保息，出借人应根据自身的投资偏好和风险承受能力进行独立判断和作出决策，并自行承担资金出借的风险与责任。网贷有风险，出借需谨慎。</span></div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="info-right">
+                <div class="invest-container">
+                    <div class="join-tip">状态<span class="status-green">收益中</span></div>
+                        <button href="javascript:void(0)" class="venus-btn venus-btn-normal" disabled>完成</button>
+                    </div>
+                <h3 class="tip-title">轻松投</h3>
+                <div class="tip-flow clearfix">
+                    <div class="tip-ever"><img src="/Images-dist/Venus/icon_tipa-7136b9c7a6.png"><br>自动投标</div>
+                    <div class="tip-ever"><img src="/Images-dist/Venus/icon_tipb-10ae572ace.png"><br>资金再投</div>
+                    <div class="tip-ever"><img src="/Images-dist/Venus/icon_tipc-413885e7cc.png"><br>回款稳定</div>
+                </div>
+                <div class="mobile-code"><a href="https://campaigns.jimu.com/mobile-intro/" target="_blank"><img src="/Images-dist/ProjectType/mobile-barcode-new-64c152dcc8.png" alt="下载app链接"></a></div>
+            </div>
+        </div>
+    </div>
+<div class="container jimu-account-container">
+        <div class="jimu-account-nav-wrap">
+            </div>
+        <div class="jimu-account-content-wrap">
+            </div>
+    </div>
+
+    
+<div class="jm-footer">
+  <div class="footer-container">
+    <div class="footer-info">
+      <div class="footer-links">
+        <div class="link">
+          <ul>
+            <li class="title">关于积木</li>
+            <li><a href="https://www.jimu.com/Home/About" target="_blank">公司简介</a></li>
+            <li><a href="https://www.jimu.com/Disclose/Commerce" target="_blank">组织信息</a></li>
+            <li><a href="https://www.jimu.com/Disclose/Events" target="_blank">重大事项</a></li>
+            <li><a href="https://www.jimu.com/Issue/List?Category=News" target="_blank">媒体报道</a></li>
+            <li><a href="https://www.jimu.com/Home/Info" target="_blank">法律声明</a></li>
+          </ul>
+        </div>
+        <div class="link">
+          <ul>
+            <li class="title">安全保障</li>
+            <li><a href="https://www.jimu.com/Security/Operation" target="_blank">合规运营</a></li>
+            <li><a href="https://www.jimu.com/Security/Depository" target="_blank">资金存管</a></li>
+            <li><a href="https://www.jimu.com/Security/SafeGuard" target="_blank">风险控制</a></li>
+            <li><a href="https://www.jimu.com/Security/Safety" target="_blank">信息安全</a></li>
+          </ul>
+        </div>
+        <div class="link">
+          <ul>
+            <li class="title">信息披露</li>
+            <li><a href="https://info.jimu.com" target="_blank">运营数据</a></li>
+            <li><a href="https://www.jimu.com/Disclose/Audit" target="_blank">审计信息</a></li>
+            <li><a href="https://www.jimu.com/Disclose/Record" target="_blank">备案信息</a></li>
+            <li><a href="https://box.jimu.com/Issue/List?Category=RepaymentNotification" target="_blank">还款公告</a></li>
+          </ul>
+        </div>
+        <div class="link">
+          <ul>
+            <li class="title">自助服务</li>
+            <li><a href="https://box.jimu.com/Help/Center" target="_blank">帮助中心</a></li>
+            <li><a href="https://box.jimu.com/Home/Calculator" target="_blank">收益计算器</a></li>
+            <li><a href="https://www.jimu.com/FeeScale" target="_blank">收费标准</a></li>
+          </ul>
+        </div>
+      </div>
+      <div class="contact-us">
+        <div class="contact-container">
+          <div class="contact-words">
+            <div class="contact-info"><span class="icon"><img src="https://page.jimu.com/content-dist/images/icon/phone-57d23d27b4.png"/></span><span>客服电话：</span><span class="phone">400-628-1176</span></div>
+            <div class="contact-info"><span class="icon"><img src="https://page.jimu.com/content-dist/images/icon/email-579bb9e094.png"/></span><span>客服邮箱：</span><a href="mailto:kefu@jimu.com">kefu@jimu.com</a></div>
+            <div class="contact-info"><span class="icon"><img src="https://page.jimu.com/content-dist/images/icon/time-9eb5afa879.png"/></span><span>服务时间：</span><span>9:00 - 21:00</span></div>
+            <div class="contact-info"><span class="icon"><img src="https://page.jimu.com/content-dist/images/icon/complain-8a98bd1324.png"/></span><span>投诉电话：</span><span>(010)6581-8622</span></div>
+            <div class="contact-info"><span class="icon"><img src="https://page.jimu.com/content-dist/images/icon/complain-8a98bd1324.png"/></span><span>投诉邮箱：</span><a href="mailto:jmcs@jimu.com">jmcs@jimu.com</a></div>
+          </div>
+          <div class="contact-code">
+            <div><img src="https://page.jimu.com/content-dist/images/TCode-6cf118ddcd.png" class="weixin"/>
+              <p>积木盒子</p>
+            </div>
+            <div><img src="https://page.jimu.com/content-dist/images/PCode-d96acc5f9e.png" class="weixin"/>
+              <p>积木拼图集团</p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="copyright">
+      <div data-version='4' class="verify"><span class="icp-head"><a href="http://lead.jimu.com/icp/" target="_blank"><img src="https://page.jimu.com/content-dist/images/cert/icp-3b515381a8.png"/>京ICP证140334号 京ICP备12049103号-3</a></span><span class="beian"><a href="http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=11010502030854" target="_blank"><img src="https://page.jimu.com/content-dist/images/cert/beian-010583ba73.png"/>京公网安备11010502030854</a></span><span class="illegal"><a href="http://www.bjp2p.com.cn/info/tousu" target="_blank"><img src="https://page.jimu.com/content-dist/images/cert/hujin-29bd28facd.png"/>北京市互联网金融协会违法违规行为投诉</a></span><span class="seal"><a href="https://trustsealinfo.verisign.com/splash?form_file=fdf/splash.fdf&amp;dn=www.jimu.com&amp;lang=zh_cn" target="_blank"><img src="https://page.jimu.com/content-dist/images/cert/v_seal-7b3d8802eb.png"/></a></span><span class="cnnic"><a href="https://ss.knet.cn/verifyseal.dll?sn=e13102311010043020g7bl000000&amp;ct=df&amp;a=1&amp;pa=0.03119715587944666" target="_blank"><img src="https://page.jimu.com/content-dist/images/cert/cnnic-ab3646ddb7.png"/></a></span><span class="cert"><a href="https://search.szfw.org/cert/l/CX20141121005617005702" target="_blank"><img src="https://page.jimu.com/content-dist/images/cert/cert-a82b3df3c9.png"/></a></span><span class="wx-seal"><a href="http://www.itrust.org.cn/yz/pjwx.asp?wm=1592382670" target="_blank"><img src="https://page.jimu.com/content-dist/images/cert/wx_seal-9745870f5c.png"/></a></span><span class="wx-satisfaction"><a href="http://www.itrust.org.cn/home/index/satification_certificate/wm/MY2018042601" target="_blank"><img src="https://page.jimu.com/content-dist/images/cert/wx_satisfaction-adeada54c0.png"/></a></span></div>
+      <div class="copyright-footer"><span>北京乐融多源信息技术有限公司  2017 Jimu.com |&nbsp</span><a href="http://www.jimugroup.com" target="_blank">积木拼图集团</a></div>
+    </div>
+  </div>
+</div><script type="text/javascript">
+        var require = {
+            baseUrl: '/Content-dist',
+            urlArgs: 'ver='+1532427615116,
+            paths: {
+                'jquery': 'bower_components/jquery/dist/jquery.min',
+                'bootstrap': 'bower_components/bootstrap-stylus/js/bootstrap.min',
+                'scrollup': 'bower_components/scrollup/dist/jquery.scrollUp.min',
+                'ui-helper': 'scripts/eden.ui.helper',
+                'domReady': 'bower_components/requirejs-domready/domReady',
+                'accounting': 'bower_components/accounting.js/accounting',
+                'common': 'scripts/common'
+            },
+            shim: {
+                'bootstrap': {
+                    deps: ['jquery']
+                },
+                'scrollup': {
+                    deps: ['jquery']
+                },
+                'ui-helper': {
+                    deps: ['jquery', 'bootstrap']
+                }
+            },
+            waitSeconds: 60,
+            deps: ['scripts/venus/index']
+        };
+    </script>
+    <script src="/Content-dist/bower_components/requirejs/require-16035e47b8.js" async></script>
+<script src="//at.alicdn.com/t/font_2vki31oofhudte29.js"></script>
+    <script src="/Scripts-dist/statistics/settingsForBox-98fba9f936.js" type="text/javascript"></script>
+    <script src="/Scripts-dist/statistics/init-2f611797b0.js" type="text/javascript"></script></body>
+</html>

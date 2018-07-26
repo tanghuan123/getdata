@@ -1,0 +1,838 @@
+<!doctype html>
+<html class="v_scrollbar">
+<head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+    <title>积木盒子-轻松投</title>
+    <meta name="keywords" content="投标出借, 互联网金融, 网络投融资平台, 网络借贷, 互联网借贷, 积木盒子,轻松投, jimu.com"/>
+    <meta name="description" content="轻松投,轻松、便捷的互联网借贷新方式"/>
+    <meta name="author" content="乐融多源(北京)科技有限公司" />
+    <!-- start: Mobile Specific -->
+    <meta name="apple-itunes-app" content="app-id=790276804">
+    <link rel="apple-touch-icon-precomposed" sizes="114x114" href="Content/img/appicon114-e316198f0e.png">
+    <link rel="apple-touch-icon-precomposed" sizes="72x72" href="/Content-dist/img/appicon72-b8db4af724.png">
+    <link rel="apple-touch-icon-precomposed" href="/Content-dist/img/appicon-bcf4e34e3c.png">
+    <meta name="baidu-site-verification" content="23e805e02562d501312d9751851b71e6"/>
+    <!-- end: Mobile Specific -->
+    <meta property="wb:webmaster" content="9fd1b56cebfec3b3"/>
+    <meta name="renderer" content="webkit|ie-comp|ie-stand">
+    <!-- start: Fav Icon -->
+    <link href="/Images-dist/favicon-f824e20afc.ico" rel="shortcut icon" type="image/x-icon" />
+    <!-- end: Fav Icon -->
+
+    <!-- start: Style -->
+    <link href="/Content-dist/dest/modules/general/index-c1d3f6c9ea.css" rel="stylesheet"/>
+    <link href="/Content-dist/dest/modules/venus/list-9b1a890633.css" rel="stylesheet"/>
+<!--[if lt IE 9 ]>
+    <link href="/Content-dist/style-ie-f145eccf98.css" rel="stylesheet">
+    <![endif]-->
+    <!--[if IE 9 ]>
+    <link href="/Content-dist/style-ie9-45e9e6e599.css" rel="stylesheet">
+    <![endif]-->
+    <!-- end: Style -->
+
+    <!-- start: Script -->
+    <script type="text/javascript">
+        (function () {
+            if (navigator.userAgent.indexOf("MSIE 7.") > 0) {
+                location.href = '/Prompt/Obsolete';
+            }
+        })();
+    </script>
+
+    <!-- Le HTML5 shim, for IE6-8 support of HTML5 elements -->
+    <!--[if lt IE 9]>
+    <script src="/Scripts-dist/html5-e1019d667d.js" type="text/javascript"></script>
+    <script src="/Scripts-dist/excanvas-c9bcc9f465.js" type="text/javascript"></script>
+    <script src="/Scripts-dist/excanvas-8c845e87e2.compiled.js" type="text/javascript"></script>
+
+    <![endif]-->
+    <!-- end: Script -->
+    </head>
+<body>
+    
+<link href="https://page.jimu.com/content-dist/css/index-c1e270ac05.css" rel="stylesheet"/>
+<div id="jimu-sup-header" class="jimu-sup-header">
+  <div class="container">
+    <div class="contactus">
+      <div class="phone-wrap phone-wrap-#logo_site"><span>为了您有更好的咨询体验，建议选择<a href="https://box.jimu.com/Help/Service" style="color:#ddd;border-bottom:1px solid #ddd">在线客服</a></span><span class="jimu">客服热线：400-628-1176
+          <!--strong 400-628-1176--></span><span>服务时间：9:00 - 21:00</span></div>
+    </div>
+    <div class="sup-nav-other">
+      <ul>
+        <li><a href="https://www.jimu.com/Home/LenderEdu" target="_blank">出借人教育</a></li>
+        <li><a href="https://info.jimu.com" target="_blank">运营数据</a></li>
+        <li><a href="https://www.jimu.com/BBS" target="_blank">积木坛子</a></li>
+        <li class="download"><a href="https://campaigns.jimu.com/mobile-intro/" target="_blank">下载客户端</a>
+          <div class="qr-container"><img src="https://page.jimu.com/content-dist/images/default/icon-684a9603cd.png" alt="积木"/>
+            <h3>积木盒子</h3><img src="https://page.jimu.com/content-dist/images/download-49cf19d568.png" alt="下载"/>
+            <p>手机投资·方便快捷</p>
+          </div>
+        </li>
+        <li><a href="https://www.jimu.com/User/Login">登录</a></li>
+        <li><a href="https://www.jimu.com/User/Register?RedirectUrl=https://box.jimu.com/User/OpenPaymentAccount">注册</a></li>
+      </ul>
+    </div>
+  </div>
+</div>
+<div id="jimu-header" class="jimu-header">
+  <div class="container">
+    <div class="logo"><a href="https://www.jimu.com"><img src="https://page.jimu.com/content-dist/images/default/logo_nav_full-9b4d613b2f.png" alt="积木"/></a></div>
+    <div class="jimu-nav-wrap">
+      <ul>
+        <li><a href="https://www.jimu.com" data-nav="home"><span>首页</span></a></li>
+        <li><a href="https://box.jimu.com/Venus/List" data-nav="venus"><span>轻松投</span></a></li>
+        <li><a href="https://box.jimu.com/Project/List" data-nav="p2p"><span>自选投</span></a></li>
+        <!--li-->
+        <!--    a(href='https://loan.jimu.com', data-nav='loan')-->
+        <!--        span 借款-->
+        <li><a href="https://www.jimu.com/Home/About" data-nav="about"><span>信息披露</span></a></li>
+        <li class="pull-right"><a href="https://www.jimu.com/User/AssetOverview" data-nav="account"><span>我的积木</span></a></li>
+      </ul>
+    </div>
+  </div>
+</div>
+<div class="online-service hidden-phone"><a href="https://box.jimu.com/Help/Center" target="_blank" class="online-service-title">
+    <div class="social-qq-pure"></div>
+    <h4>在线客服</h4></a></div><!--[if lt IE 9 ]>
+<link href="https://page.jimu.com/content-dist/css/style-ie-0924570aba.css" rel="stylesheet"/>
+<script src="https://page.jimu.com/content-dist/modules/ie-dialog-9d0df69a93.js"></script><![endif]-->
+<script src="https://page.jimu.com/content-dist/modules/sup-header/header-init-8dc16d38ce.js"></script><div class="container venus-container">
+        <div class="banner">
+            <img src="/Images-dist/Venus/venus_banner-55eb2b8744.png" alt="轻松投banner">
+            <a href="https://www.jimu.com/Pocket/Post/15102" class="banner-btn" target="_blank">查看攻略</a>
+        </div>
+        <div class="project-container">
+            <h2 class="title">推荐产品</h2>
+                <div class="project-list clearfix">
+                <a href="/Venus/437304" target="_blank">
+                        <div class="project " data-type="NoActivity">
+                            <img class="item-type-icon" src="https://dn-jm-photo.qbox.me/be365421-9f2e-4b00-9a70-db5e99ef1ae8">
+                            <div class="title">新手专享1个月20180726-1</div>
+                            <div class="desc">起投金额1,000元</div>
+                            <div class="info">
+                                <div class="rate">
+                                    <div class="num invest-item-profit">
+                                            6<em>.5+3%</em>
+                                    </div>
+                                    <div class="tip">目标利率(年化)<span class="tip-icon">!</span><span class="tip-info">目标利率不代表实际收益</span></div>
+                                </div>
+                                <div class="time">
+                                    <div class="num time-limit">
+                                        1<em>个月</em>
+                                    </div>
+                                    <div class="tip">投资期限</div>
+                                </div>
+                                <div class="status">
+                                    <div class="num status-blue">可加入</div>
+                                    <div class="tip">状态</div>
+                                </div>
+                            </div>
+                            <div class="project-shadow">
+                                <div class="project-shadow-tip">
+                                    <div class="more-title">可加入</div>
+                                    <div class="more-info">查看详情</div>
+                                </div>
+                            </div>
+                        </div>
+                    </a>
+                <a href="/Venus/437301" target="_blank">
+                        <div class="project " data-type="Anniversary2018MISSON">
+                            <img class="item-type-icon" src="https://dn-jm-photo.qbox.me/df21352e-d9d5-4a60-9583-82ad8807e6b7">
+                            <div class="title">轻松投3个月20180726-1【领取任务后可参与】</div>
+                            <div class="desc">起投金额1,000元</div>
+                            <div class="info">
+                                <div class="rate">
+                                    <div class="num invest-item-profit">
+                                            7<em>.4%</em>
+                                    </div>
+                                    <div class="tip">目标利率(年化)<span class="tip-icon">!</span><span class="tip-info">目标利率不代表实际收益</span></div>
+                                </div>
+                                <div class="time">
+                                    <div class="num time-limit">
+                                        3<em>个月</em>
+                                    </div>
+                                    <div class="tip">投资期限</div>
+                                </div>
+                                <div class="status">
+                                    <div class="num status-blue">可加入</div>
+                                    <div class="tip">状态</div>
+                                </div>
+                            </div>
+                            <div class="project-shadow">
+                                <div class="project-shadow-tip">
+                                    <div class="more-title">可加入</div>
+                                    <div class="more-info">查看详情</div>
+                                </div>
+                            </div>
+                        </div>
+                    </a>
+                <a href="/Venus/437302" target="_blank">
+                        <div class="project " data-type="Anniversary2018MISSON">
+                            <img class="item-type-icon" src="https://dn-jm-photo.qbox.me/df21352e-d9d5-4a60-9583-82ad8807e6b7">
+                            <div class="title">轻松投6个月20180726-1【领取任务后可参与】</div>
+                            <div class="desc">起投金额1,000元</div>
+                            <div class="info">
+                                <div class="rate">
+                                    <div class="num invest-item-profit">
+                                            8<em>.1%</em>
+                                    </div>
+                                    <div class="tip">目标利率(年化)<span class="tip-icon">!</span><span class="tip-info">目标利率不代表实际收益</span></div>
+                                </div>
+                                <div class="time">
+                                    <div class="num time-limit">
+                                        6<em>个月</em>
+                                    </div>
+                                    <div class="tip">投资期限</div>
+                                </div>
+                                <div class="status">
+                                    <div class="num status-blue">可加入</div>
+                                    <div class="tip">状态</div>
+                                </div>
+                            </div>
+                            <div class="project-shadow">
+                                <div class="project-shadow-tip">
+                                    <div class="more-title">可加入</div>
+                                    <div class="more-info">查看详情</div>
+                                </div>
+                            </div>
+                        </div>
+                    </a>
+                <a href="/Venus/437303" target="_blank">
+                        <div class="project " data-type="Anniversary2018MISSON">
+                            <img class="item-type-icon" src="https://dn-jm-photo.qbox.me/df21352e-d9d5-4a60-9583-82ad8807e6b7">
+                            <div class="title">轻松投12个月20180726-1【领取任务后可参与】</div>
+                            <div class="desc">起投金额1,000元</div>
+                            <div class="info">
+                                <div class="rate">
+                                    <div class="num invest-item-profit">
+                                            9<em>.5%</em>
+                                    </div>
+                                    <div class="tip">目标利率(年化)<span class="tip-icon">!</span><span class="tip-info">目标利率不代表实际收益</span></div>
+                                </div>
+                                <div class="time">
+                                    <div class="num time-limit">
+                                        12<em>个月</em>
+                                    </div>
+                                    <div class="tip">投资期限</div>
+                                </div>
+                                <div class="status">
+                                    <div class="num status-blue">可加入</div>
+                                    <div class="tip">状态</div>
+                                </div>
+                            </div>
+                            <div class="project-shadow">
+                                <div class="project-shadow-tip">
+                                    <div class="more-title">可加入</div>
+                                    <div class="more-info">查看详情</div>
+                                </div>
+                            </div>
+                        </div>
+                    </a>
+                <a href="/Venus/437305" target="_blank">
+                        <div class="project " data-type="NoActivity">
+                            <div class="title">轻松投4个月20180726-1</div>
+                            <div class="desc">起投金额1,000元</div>
+                            <div class="info">
+                                <div class="rate">
+                                    <div class="num invest-item-profit">
+                                            7<em>.6%</em>
+                                    </div>
+                                    <div class="tip">目标利率(年化)<span class="tip-icon">!</span><span class="tip-info">目标利率不代表实际收益</span></div>
+                                </div>
+                                <div class="time">
+                                    <div class="num time-limit">
+                                        4<em>个月</em>
+                                    </div>
+                                    <div class="tip">投资期限</div>
+                                </div>
+                                <div class="status">
+                                    <div class="num status-blue">可加入</div>
+                                    <div class="tip">状态</div>
+                                </div>
+                            </div>
+                            <div class="project-shadow">
+                                <div class="project-shadow-tip">
+                                    <div class="more-title">可加入</div>
+                                    <div class="more-info">查看详情</div>
+                                </div>
+                            </div>
+                        </div>
+                    </a>
+                <a href="/Venus/437306" target="_blank">
+                        <div class="project " data-type="NoActivity">
+                            <div class="title">轻松投5个月20180726-1</div>
+                            <div class="desc">起投金额1,000元</div>
+                            <div class="info">
+                                <div class="rate">
+                                    <div class="num invest-item-profit">
+                                            7<em>.8%</em>
+                                    </div>
+                                    <div class="tip">目标利率(年化)<span class="tip-icon">!</span><span class="tip-info">目标利率不代表实际收益</span></div>
+                                </div>
+                                <div class="time">
+                                    <div class="num time-limit">
+                                        5<em>个月</em>
+                                    </div>
+                                    <div class="tip">投资期限</div>
+                                </div>
+                                <div class="status">
+                                    <div class="num status-blue">可加入</div>
+                                    <div class="tip">状态</div>
+                                </div>
+                            </div>
+                            <div class="project-shadow">
+                                <div class="project-shadow-tip">
+                                    <div class="more-title">可加入</div>
+                                    <div class="more-info">查看详情</div>
+                                </div>
+                            </div>
+                        </div>
+                    </a>
+                <a href="/Venus/437307" target="_blank">
+                        <div class="project " data-type="NoActivity">
+                            <div class="title">轻松投7个月20180726-1</div>
+                            <div class="desc">起投金额1,000元</div>
+                            <div class="info">
+                                <div class="rate">
+                                    <div class="num invest-item-profit">
+                                            8<em>.3%</em>
+                                    </div>
+                                    <div class="tip">目标利率(年化)<span class="tip-icon">!</span><span class="tip-info">目标利率不代表实际收益</span></div>
+                                </div>
+                                <div class="time">
+                                    <div class="num time-limit">
+                                        7<em>个月</em>
+                                    </div>
+                                    <div class="tip">投资期限</div>
+                                </div>
+                                <div class="status">
+                                    <div class="num status-blue">可加入</div>
+                                    <div class="tip">状态</div>
+                                </div>
+                            </div>
+                            <div class="project-shadow">
+                                <div class="project-shadow-tip">
+                                    <div class="more-title">可加入</div>
+                                    <div class="more-info">查看详情</div>
+                                </div>
+                            </div>
+                        </div>
+                    </a>
+                <a href="/Venus/437308" target="_blank">
+                        <div class="project " data-type="NoActivity">
+                            <div class="title">轻松投8个月20180726-1</div>
+                            <div class="desc">起投金额1,000元</div>
+                            <div class="info">
+                                <div class="rate">
+                                    <div class="num invest-item-profit">
+                                            8<em>.5%</em>
+                                    </div>
+                                    <div class="tip">目标利率(年化)<span class="tip-icon">!</span><span class="tip-info">目标利率不代表实际收益</span></div>
+                                </div>
+                                <div class="time">
+                                    <div class="num time-limit">
+                                        8<em>个月</em>
+                                    </div>
+                                    <div class="tip">投资期限</div>
+                                </div>
+                                <div class="status">
+                                    <div class="num status-blue">可加入</div>
+                                    <div class="tip">状态</div>
+                                </div>
+                            </div>
+                            <div class="project-shadow">
+                                <div class="project-shadow-tip">
+                                    <div class="more-title">可加入</div>
+                                    <div class="more-info">查看详情</div>
+                                </div>
+                            </div>
+                        </div>
+                    </a>
+                <a href="/Venus/437309" target="_blank">
+                        <div class="project " data-type="NoActivity">
+                            <div class="title">轻松投9个月20180726-1</div>
+                            <div class="desc">起投金额1,000元</div>
+                            <div class="info">
+                                <div class="rate">
+                                    <div class="num invest-item-profit">
+                                            8<em>.6%</em>
+                                    </div>
+                                    <div class="tip">目标利率(年化)<span class="tip-icon">!</span><span class="tip-info">目标利率不代表实际收益</span></div>
+                                </div>
+                                <div class="time">
+                                    <div class="num time-limit">
+                                        9<em>个月</em>
+                                    </div>
+                                    <div class="tip">投资期限</div>
+                                </div>
+                                <div class="status">
+                                    <div class="num status-blue">可加入</div>
+                                    <div class="tip">状态</div>
+                                </div>
+                            </div>
+                            <div class="project-shadow">
+                                <div class="project-shadow-tip">
+                                    <div class="more-title">可加入</div>
+                                    <div class="more-info">查看详情</div>
+                                </div>
+                            </div>
+                        </div>
+                    </a>
+                <a href="/Venus/437310" target="_blank">
+                        <div class="project " data-type="NoActivity">
+                            <div class="title">轻松投10个月20180726-1</div>
+                            <div class="desc">起投金额1,000元</div>
+                            <div class="info">
+                                <div class="rate">
+                                    <div class="num invest-item-profit">
+                                            8<em>.7%</em>
+                                    </div>
+                                    <div class="tip">目标利率(年化)<span class="tip-icon">!</span><span class="tip-info">目标利率不代表实际收益</span></div>
+                                </div>
+                                <div class="time">
+                                    <div class="num time-limit">
+                                        10<em>个月</em>
+                                    </div>
+                                    <div class="tip">投资期限</div>
+                                </div>
+                                <div class="status">
+                                    <div class="num status-blue">可加入</div>
+                                    <div class="tip">状态</div>
+                                </div>
+                            </div>
+                            <div class="project-shadow">
+                                <div class="project-shadow-tip">
+                                    <div class="more-title">可加入</div>
+                                    <div class="more-info">查看详情</div>
+                                </div>
+                            </div>
+                        </div>
+                    </a>
+                <a href="/Venus/437311" target="_blank">
+                        <div class="project " data-type="NoActivity">
+                            <div class="title">轻松投11个月20180726-1</div>
+                            <div class="desc">起投金额1,000元</div>
+                            <div class="info">
+                                <div class="rate">
+                                    <div class="num invest-item-profit">
+                                            8<em>.8%</em>
+                                    </div>
+                                    <div class="tip">目标利率(年化)<span class="tip-icon">!</span><span class="tip-info">目标利率不代表实际收益</span></div>
+                                </div>
+                                <div class="time">
+                                    <div class="num time-limit">
+                                        11<em>个月</em>
+                                    </div>
+                                    <div class="tip">投资期限</div>
+                                </div>
+                                <div class="status">
+                                    <div class="num status-blue">可加入</div>
+                                    <div class="tip">状态</div>
+                                </div>
+                            </div>
+                            <div class="project-shadow">
+                                <div class="project-shadow-tip">
+                                    <div class="more-title">可加入</div>
+                                    <div class="more-info">查看详情</div>
+                                </div>
+                            </div>
+                        </div>
+                    </a>
+                <a href="/Venus/431306" target="_blank">
+                        <div class="project project-cantbid" data-type="NoActivity">
+                            <div class="title">轻松投1个月20180723-1</div>
+                            <div class="desc">起投金额1,000元</div>
+                            <div class="info">
+                                <div class="rate">
+                                    <div class="num invest-item-profit">
+                                            6<em>.5%</em>
+                                    </div>
+                                    <div class="tip">目标利率(年化)<span class="tip-icon">!</span><span class="tip-info">目标利率不代表实际收益</span></div>
+                                </div>
+                                <div class="time">
+                                    <div class="num time-limit">
+                                        1<em>个月</em>
+                                    </div>
+                                    <div class="tip">投资期限</div>
+                                </div>
+                                <div class="status">
+                                    <div class="num status-green">收益中</div>
+                                    <div class="tip">状态</div>
+                                </div>
+                            </div>
+                            <div class="project-shadow">
+                                <div class="project-shadow-tip">
+                                    <div class="more-title">收益中</div>
+                                    <div class="more-info">查看详情</div>
+                                </div>
+                            </div>
+                        </div>
+                    </a>
+                <a href="/Venus/427324" target="_blank">
+                        <div class="project project-cantbid" data-type="NoActivity">
+                            <div class="title">轻松投2个月20180724-1</div>
+                            <div class="desc">起投金额1,000元</div>
+                            <div class="info">
+                                <div class="rate">
+                                    <div class="num invest-item-profit">
+                                            7<em>%</em>
+                                    </div>
+                                    <div class="tip">目标利率(年化)<span class="tip-icon">!</span><span class="tip-info">目标利率不代表实际收益</span></div>
+                                </div>
+                                <div class="time">
+                                    <div class="num time-limit">
+                                        2<em>个月</em>
+                                    </div>
+                                    <div class="tip">投资期限</div>
+                                </div>
+                                <div class="status">
+                                    <div class="num status-green">收益中</div>
+                                    <div class="tip">状态</div>
+                                </div>
+                            </div>
+                            <div class="project-shadow">
+                                <div class="project-shadow-tip">
+                                    <div class="more-title">收益中</div>
+                                    <div class="more-info">查看详情</div>
+                                </div>
+                            </div>
+                        </div>
+                    </a>
+                <a href="/Venus/427303" target="_blank">
+                        <div class="project project-cantbid" data-type="NoActivity">
+                            <img class="item-type-icon" src="https://dn-jm-photo.qbox.me/be365421-9f2e-4b00-9a70-db5e99ef1ae8">
+                            <div class="title">新手专享2个月20180719-1</div>
+                            <div class="desc">起投金额1,000元</div>
+                            <div class="info">
+                                <div class="rate">
+                                    <div class="num invest-item-profit">
+                                            7<em>+2.5%</em>
+                                    </div>
+                                    <div class="tip">目标利率(年化)<span class="tip-icon">!</span><span class="tip-info">目标利率不代表实际收益</span></div>
+                                </div>
+                                <div class="time">
+                                    <div class="num time-limit">
+                                        2<em>个月</em>
+                                    </div>
+                                    <div class="tip">投资期限</div>
+                                </div>
+                                <div class="status">
+                                    <div class="num status-green">收益中</div>
+                                    <div class="tip">状态</div>
+                                </div>
+                            </div>
+                            <div class="project-shadow">
+                                <div class="project-shadow-tip">
+                                    <div class="more-title">收益中</div>
+                                    <div class="more-info">查看详情</div>
+                                </div>
+                            </div>
+                        </div>
+                    </a>
+                <a href="/Venus/417314" target="_blank">
+                        <div class="project project-cantbid" data-type="NoActivity">
+                            <img class="item-type-icon" src="https://dn-jm-photo.qbox.me/be365421-9f2e-4b00-9a70-db5e99ef1ae8">
+                            <div class="title">新手专享4个月20180713-1</div>
+                            <div class="desc">起投金额1,000元</div>
+                            <div class="info">
+                                <div class="rate">
+                                    <div class="num invest-item-profit">
+                                            7<em>.6+2%</em>
+                                    </div>
+                                    <div class="tip">目标利率(年化)<span class="tip-icon">!</span><span class="tip-info">目标利率不代表实际收益</span></div>
+                                </div>
+                                <div class="time">
+                                    <div class="num time-limit">
+                                        4<em>个月</em>
+                                    </div>
+                                    <div class="tip">投资期限</div>
+                                </div>
+                                <div class="status">
+                                    <div class="num status-green">收益中</div>
+                                    <div class="tip">状态</div>
+                                </div>
+                            </div>
+                            <div class="project-shadow">
+                                <div class="project-shadow-tip">
+                                    <div class="more-title">收益中</div>
+                                    <div class="more-info">查看详情</div>
+                                </div>
+                            </div>
+                        </div>
+                    </a>
+                <a href="/Venus/403332" target="_blank">
+                        <div class="project project-cantbid" data-type="NoActivity">
+                            <div class="title">轻松投15天20180704-1</div>
+                            <div class="desc">起投金额1,000元</div>
+                            <div class="info">
+                                <div class="rate">
+                                    <div class="num invest-item-profit">
+                                            5<em>.8%</em>
+                                    </div>
+                                    <div class="tip">目标利率(年化)<span class="tip-icon">!</span><span class="tip-info">目标利率不代表实际收益</span></div>
+                                </div>
+                                <div class="time">
+                                    <div class="num time-limit">
+                                        15<em>天</em>
+                                    </div>
+                                    <div class="tip">投资期限</div>
+                                </div>
+                                <div class="status">
+                                    <div class="num status-green">收益中</div>
+                                    <div class="tip">状态</div>
+                                </div>
+                            </div>
+                            <div class="project-shadow">
+                                <div class="project-shadow-tip">
+                                    <div class="more-title">收益中</div>
+                                    <div class="more-info">查看详情</div>
+                                </div>
+                            </div>
+                        </div>
+                    </a>
+                <a href="/Venus/361320" target="_blank">
+                        <div class="project project-cantbid" data-type="NoActivity">
+                            <img class="item-type-icon" src="https://dn-jm-photo.qbox.me/be365421-9f2e-4b00-9a70-db5e99ef1ae8">
+                            <div class="title">新手专享15天20180603-2</div>
+                            <div class="desc">起投金额1,000元</div>
+                            <div class="info">
+                                <div class="rate">
+                                    <div class="num invest-item-profit">
+                                            5<em>.8+4%</em>
+                                    </div>
+                                    <div class="tip">目标利率(年化)<span class="tip-icon">!</span><span class="tip-info">目标利率不代表实际收益</span></div>
+                                </div>
+                                <div class="time">
+                                    <div class="num time-limit">
+                                        15<em>天</em>
+                                    </div>
+                                    <div class="tip">投资期限</div>
+                                </div>
+                                <div class="status">
+                                    <div class="num status-green">收益中</div>
+                                    <div class="tip">状态</div>
+                                </div>
+                            </div>
+                            <div class="project-shadow">
+                                <div class="project-shadow-tip">
+                                    <div class="more-title">收益中</div>
+                                    <div class="more-info">查看详情</div>
+                                </div>
+                            </div>
+                        </div>
+                    </a>
+                </div>
+        </div>
+    </div>
+    <div class="flow">
+        <div class="container">
+            <div class="title">使用流程</div>
+            <div class="flow-container">
+                <div class="flow-content">
+                    <img src="/Images-dist/Venus/flow-37925c4dae.png" alt="使用流程">
+                </div>
+                <div class="flow-word">
+                    <span class="join">加入轻松投</span>
+                    <span class="com">完成投标</span>
+                    <span class="fin">投资结束</span>
+                    <span class="out">退出操作</span>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="method-banner">
+        <div class="container">
+            <div class="method-all-banner"><img src="/Images-dist/Venus/banner-250036630a.jpg"></div>
+            <div class="method-words">
+                <div class="method-title">资金有规划，投标不放假</div>
+                <div class="method-word-content">轻松投为积木盒子推出的高效自动投标工具。经用户授权后，系统为用户实现自动投标，满足用户方便快捷完成投资的需求。投资和收益回款稳定，有效进行投资规划。预期收益不等于实际收益，投资人需自行承担资金出借的风险与责任。网贷有风险，出借需谨慎。</div>
+            </div>
+        </div>
+    </div>
+    <div class="container">
+        <div class="method-box clearfix">
+            <div class="ever">
+                <div class="method-target">
+                    <img src="/Images-dist/Venus/icona-8244335397.png" alt="自动投标">
+                </div>
+                <div class="title">自动投标</div>
+                <div class="desc">使用投标工具<br>操作无需费心</div>
+            </div>
+            <div class="ever">
+                <div class="method-target">
+                    <img src="/Images-dist/Venus/iconb-90a18233bd.png" alt="收益最大化">
+                </div>
+                <div class="title">资金再投</div>
+                <div class="desc">还款再投标<br>利息不间断</div>
+            </div>
+            <div class="ever">
+                <div class="method-target">
+                    <img src="/Images-dist/Venus/iconc-18cbefd7fc.png" alt="回款固定">
+                </div>
+                <div class="title">回款有期</div>
+                <div class="desc">回款有计划<br>用钱有规划</div>
+            </div>
+        </div>
+    </div>
+    <div class="rule">
+        <div class="container">
+            <div class="title">关于轻松投</div>
+            <div class="rule-content">
+                <div class="rule-list clearfix">
+                    <div class="rule-title">工具名称</div>
+                    <div class="rule-words">轻松投</div>
+                </div>
+                <div class="rule-list clearfix">
+                    <div class="rule-title">工具介绍</div>
+                    <div class="rule-words">轻松投为积木盒子平台新推出的一款高效、自动投标工具，经由用户授权后通过系统为用户完成自动投标，不仅满足了用户方便快捷地进行投标的需求，进而达到更加有效有进行资金规划的目的。使用本工具所投产品目标利率不代表实际收益，用户需自行承担资金出借的风险与责任。网贷有风险，出借需谨慎。</div>
+                </div>
+                <div class="rule-list clearfix">
+                    <div class="rule-title">投标范围</div>
+                    <div class="rule-words">根据用户加入时选定的产品要素为依据，对符合要求的融资项目进行自动投标。为避免打扰用户，回款信息不以短信方式通知但在用户轻松投账户内可查询。</div>
+                </div>
+                <div class="rule-list clearfix">
+                    <div class="rule-title">收益处理方式</div>
+                    <div class="rule-words">平台现提供月度支付、季度支付和到期支付三种不同的收益处理方式。<br/>根据轻松投期限不同，可灵活进行选择。</div>
+                </div>
+                <div class="rule-list clearfix">
+                    <div class="rule-title">封闭期</div>
+                    <div class="rule-words">根据轻松投不同类型，封闭期不同，封闭期内无法申请退出。</div>
+                </div>
+                <div class="rule-list clearfix">
+                    <div class="rule-title">加入条件</div>
+                    <div class="rule-words">根据轻松投不同类型，设有最低加入金额，单期最高加入金额将依据该期规模确认。</div>
+                </div>
+                <div class="rule-list clearfix">
+                    <div class="rule-title">到期退出方式</div>
+                    <div class="rule-words">系统于约定退出日期发起债权转让以实现退出目的。用户持有的债权转让完成的具体时间视交易情况而定，未能成功出让的债权将由用户继续持有，系统自动再次甚至多次发起债权转让，直至用户成功退出，退出完成前，资产利息归用户享有。</div>
+                </div>
+                <div class="rule-list clearfix">
+                    <div class="rule-title">提前退出方式</div>
+                    <div class="rule-words">封闭期结束后，投资期限到期前，支持提前退出。经用户申请并同意支付提前退出费用后，系统依据用户指令发起债权转让以实现退出目的。用户持有的债权转让完成的具体时间视交易情况而定，未能成功出让的债权将由用户继续持有，系统自动再次甚至多次发起债权转让，直至用户成功退出，退出完成前，资产利息归用户享有。</div>
+                </div>
+                <div class="rule-list clearfix">
+                    <div class="rule-title">费用</div>
+                    <div class="rule-words">提前退出费及管理费 参见<a href="https://contract.jimu.com/Contract/venusTemplate?ruleID=" target="_blank">《轻松投服务协议》</a></div>
+                </div>
+                <div class="rule-list clearfix">
+                    <div class="rule-title">保障方式</div>
+                    <div class="rule-words">加入穹顶计划的项目，享有<a href="https://box.jimu.com/Guarantee/Dome" target="_blank">《穹顶计划说明》</a>保障。</div>
+                </div>
+                <div class="rule-list clearfix">
+                    <div class="rule-title">服务说明</div>
+                    <div class="rule-words">
+                        <a href="https://contract.jimu.com/Contract/venusTemplate?ruleID=" target="_blank">《轻松投服务协议》</a>
+                    </div>
+                </div>
+                <div class="platform-tips-words">目标利率不代表实际收益</div>
+            </div>
+        </div>
+    </div>
+<div class="container jimu-account-container">
+        <div class="jimu-account-nav-wrap">
+            </div>
+        <div class="jimu-account-content-wrap">
+            </div>
+    </div>
+
+    
+<div class="jm-footer">
+  <div class="footer-container">
+    <div class="footer-info">
+      <div class="footer-links">
+        <div class="link">
+          <ul>
+            <li class="title">关于积木</li>
+            <li><a href="https://www.jimu.com/Home/About" target="_blank">公司简介</a></li>
+            <li><a href="https://www.jimu.com/Disclose/Commerce" target="_blank">组织信息</a></li>
+            <li><a href="https://www.jimu.com/Disclose/Events" target="_blank">重大事项</a></li>
+            <li><a href="https://www.jimu.com/Issue/List?Category=News" target="_blank">媒体报道</a></li>
+            <li><a href="https://www.jimu.com/Home/Info" target="_blank">法律声明</a></li>
+          </ul>
+        </div>
+        <div class="link">
+          <ul>
+            <li class="title">安全保障</li>
+            <li><a href="https://www.jimu.com/Security/Operation" target="_blank">合规运营</a></li>
+            <li><a href="https://www.jimu.com/Security/Depository" target="_blank">资金存管</a></li>
+            <li><a href="https://www.jimu.com/Security/SafeGuard" target="_blank">风险控制</a></li>
+            <li><a href="https://www.jimu.com/Security/Safety" target="_blank">信息安全</a></li>
+          </ul>
+        </div>
+        <div class="link">
+          <ul>
+            <li class="title">信息披露</li>
+            <li><a href="https://info.jimu.com" target="_blank">运营数据</a></li>
+            <li><a href="https://www.jimu.com/Disclose/Audit" target="_blank">审计信息</a></li>
+            <li><a href="https://www.jimu.com/Disclose/Record" target="_blank">备案信息</a></li>
+            <li><a href="https://box.jimu.com/Issue/List?Category=RepaymentNotification" target="_blank">还款公告</a></li>
+          </ul>
+        </div>
+        <div class="link">
+          <ul>
+            <li class="title">自助服务</li>
+            <li><a href="https://box.jimu.com/Help/Center" target="_blank">帮助中心</a></li>
+            <li><a href="https://box.jimu.com/Home/Calculator" target="_blank">收益计算器</a></li>
+            <li><a href="https://www.jimu.com/FeeScale" target="_blank">收费标准</a></li>
+          </ul>
+        </div>
+      </div>
+      <div class="contact-us">
+        <div class="contact-container">
+          <div class="contact-words">
+            <div class="contact-info"><span class="icon"><img src="https://page.jimu.com/content-dist/images/icon/phone-57d23d27b4.png"/></span><span>客服电话：</span><span class="phone">400-628-1176</span></div>
+            <div class="contact-info"><span class="icon"><img src="https://page.jimu.com/content-dist/images/icon/email-579bb9e094.png"/></span><span>客服邮箱：</span><a href="mailto:kefu@jimu.com">kefu@jimu.com</a></div>
+            <div class="contact-info"><span class="icon"><img src="https://page.jimu.com/content-dist/images/icon/time-9eb5afa879.png"/></span><span>服务时间：</span><span>9:00 - 21:00</span></div>
+            <div class="contact-info"><span class="icon"><img src="https://page.jimu.com/content-dist/images/icon/complain-8a98bd1324.png"/></span><span>投诉电话：</span><span>(010)6581-8622</span></div>
+            <div class="contact-info"><span class="icon"><img src="https://page.jimu.com/content-dist/images/icon/complain-8a98bd1324.png"/></span><span>投诉邮箱：</span><a href="mailto:jmcs@jimu.com">jmcs@jimu.com</a></div>
+          </div>
+          <div class="contact-code">
+            <div><img src="https://page.jimu.com/content-dist/images/TCode-6cf118ddcd.png" class="weixin"/>
+              <p>积木盒子</p>
+            </div>
+            <div><img src="https://page.jimu.com/content-dist/images/PCode-d96acc5f9e.png" class="weixin"/>
+              <p>积木拼图集团</p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="copyright">
+      <div data-version='4' class="verify"><span class="icp-head"><a href="http://lead.jimu.com/icp/" target="_blank"><img src="https://page.jimu.com/content-dist/images/cert/icp-3b515381a8.png"/>京ICP证140334号 京ICP备12049103号-3</a></span><span class="beian"><a href="http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=11010502030854" target="_blank"><img src="https://page.jimu.com/content-dist/images/cert/beian-010583ba73.png"/>京公网安备11010502030854</a></span><span class="illegal"><a href="http://www.bjp2p.com.cn/info/tousu" target="_blank"><img src="https://page.jimu.com/content-dist/images/cert/hujin-29bd28facd.png"/>北京市互联网金融协会违法违规行为投诉</a></span><span class="seal"><a href="https://trustsealinfo.verisign.com/splash?form_file=fdf/splash.fdf&amp;dn=www.jimu.com&amp;lang=zh_cn" target="_blank"><img src="https://page.jimu.com/content-dist/images/cert/v_seal-7b3d8802eb.png"/></a></span><span class="cnnic"><a href="https://ss.knet.cn/verifyseal.dll?sn=e13102311010043020g7bl000000&amp;ct=df&amp;a=1&amp;pa=0.03119715587944666" target="_blank"><img src="https://page.jimu.com/content-dist/images/cert/cnnic-ab3646ddb7.png"/></a></span><span class="cert"><a href="https://search.szfw.org/cert/l/CX20141121005617005702" target="_blank"><img src="https://page.jimu.com/content-dist/images/cert/cert-a82b3df3c9.png"/></a></span><span class="wx-seal"><a href="http://www.itrust.org.cn/yz/pjwx.asp?wm=1592382670" target="_blank"><img src="https://page.jimu.com/content-dist/images/cert/wx_seal-9745870f5c.png"/></a></span><span class="wx-satisfaction"><a href="http://www.itrust.org.cn/home/index/satification_certificate/wm/MY2018042601" target="_blank"><img src="https://page.jimu.com/content-dist/images/cert/wx_satisfaction-adeada54c0.png"/></a></span></div>
+      <div class="copyright-footer"><span>北京乐融多源信息技术有限公司  2017 Jimu.com |&nbsp</span><a href="http://www.jimugroup.com" target="_blank">积木拼图集团</a></div>
+    </div>
+  </div>
+</div><script type="text/javascript">
+        var require = {
+            baseUrl: '/Content-dist',
+            urlArgs: 'ver='+1532597769188,
+            paths: {
+                'jquery': 'bower_components/jquery/dist/jquery.min',
+                'bootstrap': 'bower_components/bootstrap-stylus/js/bootstrap.min',
+                'scrollup': 'bower_components/scrollup/dist/jquery.scrollUp.min',
+                'ui-helper': 'scripts/eden.ui.helper',
+                'domReady': 'bower_components/requirejs-domready/domReady',
+                'common': 'scripts/common'
+            },
+            shim: {
+                'bootstrap': {
+                    deps: ['jquery']
+                },
+                'scrollup': {
+                    deps: ['jquery']
+                },
+                'ui-helper': {
+                    deps: ['jquery', 'bootstrap']
+                }
+            },
+            waitSeconds: 60,
+            deps: ['scripts/venus/list']
+        };
+    </script>
+    <script src="/Content-dist/bower_components/requirejs/require-16035e47b8.js" async></script>
+<script src="//at.alicdn.com/t/font_2vki31oofhudte29.js"></script>
+    <script src="/Scripts-dist/statistics/settingsForBox-98fba9f936.js" type="text/javascript"></script>
+    <script src="/Scripts-dist/statistics/init-2f611797b0.js" type="text/javascript"></script></body>
+</html>
