@@ -7,11 +7,12 @@ import time
 import xlrd,xlwt,os,sys,xlutils
 from xlrd import open_workbook
 from xlutils.copy import copy
-#此函数为获取积木盒子
+#此函数为获取盒子的标号及剩余量
 def getdata(data1,data2,data3):
 
    with request.urlopen(data1) as f:
 			  data = f.read().decode('utf-8').replace(u'\xa9', u'')
+   #listp接收标号的url进行拼接
    listp = []
    res_tr = re.findall(r'/Venus/\d+',data)
    for i in res_tr:
@@ -19,6 +20,7 @@ def getdata(data1,data2,data3):
    print(listp)
    listj = []
    listm = []
+   #listj接收剩余量 listm接收标号
    for j in  listp:
      listm.append(j.split('/')[2])
      url = "https://box.jimu.com" + j

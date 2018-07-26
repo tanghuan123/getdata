@@ -373,7 +373,7 @@
 </div><script type="text/javascript">
         var require = {
             baseUrl: '/Content-dist',
-            urlArgs: 'ver='+1532427615116,
+            urlArgs: 'ver='+1532597769188,
             paths: {
                 'jquery': 'bower_components/jquery/dist/jquery.min',
                 'bootstrap': 'bower_components/bootstrap-stylus/js/bootstrap.min',

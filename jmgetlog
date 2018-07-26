@@ -1,0 +1,405 @@
+canbid-amount<!doctype html>
+<html class="v_scrollbar">
+<head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+    <title>��ľ����-����Ͷ</title>
+    <meta name="keywords" content="Ͷ�����, ����������, ����Ͷ����ƽ̨, ������, ���������, ��ľ����,����Ͷ, jimu.com"/>
+    <meta name="description" content="����Ͷ,���ɡ���ݵĻ���������·�ʽ"/>
+    <meta name="author" content="���ڶ�Դ(����)�Ƽ����޹�˾" />
+    <!-- start: Mobile Specific -->
+    <meta name="apple-itunes-app" content="app-id=790276804">
+    <link rel="apple-touch-icon-precomposed" sizes="114x114" href="Content/img/appicon114-e316198f0e.png">
+    <link rel="apple-touch-icon-precomposed" sizes="72x72" href="/Content-dist/img/appicon72-b8db4af724.png">
+    <link rel="apple-touch-icon-precomposed" href="/Content-dist/img/appicon-bcf4e34e3c.png">
+    <meta name="baidu-site-verification" content="23e805e02562d501312d9751851b71e6"/>
+    <!-- end: Mobile Specific -->
+    <meta property="wb:webmaster" content="9fd1b56cebfec3b3"/>
+    <meta name="renderer" content="webkit|ie-comp|ie-stand">
+    <!-- start: Fav Icon -->
+    <link href="/Images-dist/favicon-f824e20afc.ico" rel="shortcut icon" type="image/x-icon" />
+    <!-- end: Fav Icon -->
+
+    <!-- start: Style -->
+    <link href="/Content-dist/dest/modules/general/index-c1d3f6c9ea.css" rel="stylesheet"/>
+    <link href="/Content-dist/dest/modules/venus/index-5700834557.css" rel="stylesheet"/>
+<!--[if lt IE 9 ]>
+    <link href="/Content-dist/style-ie-f145eccf98.css" rel="stylesheet">
+    <![endif]-->
+    <!--[if IE 9 ]>
+    <link href="/Content-dist/style-ie9-45e9e6e599.css" rel="stylesheet">
+    <![endif]-->
+    <!-- end: Style -->
+
+    <!-- start: Script -->
+    <script type="text/javascript">
+        (function () {
+            if (navigator.userAgent.indexOf("MSIE 7.") > 0) {
+                location.href = '/Prompt/Obsolete';
+            }
+        })();
+    </script>
+
+    <!-- Le HTML5 shim, for IE6-8 support of HTML5 elements -->
+    <!--[if lt IE 9]>
+    <script src="/Scripts-dist/html5-e1019d667d.js" type="text/javascript"></script>
+    <script src="/Scripts-dist/excanvas-c9bcc9f465.js" type="text/javascript"></script>
+    <script src="/Scripts-dist/excanvas-8c845e87e2.compiled.js" type="text/javascript"></script>
+
+    <![endif]-->
+    <!-- end: Script -->
+    </head>
+<body>
+    
+<link href="https://page.jimu.com/content-dist/css/index-c1e270ac05.css" rel="stylesheet"/>
+<div id="jimu-sup-header" class="jimu-sup-header">
+  <div class="container">
+    <div class="contactus">
+      <div class="phone-wrap phone-wrap-#logo_site"><span>Ϊ�����и��õ���ѯ���飬����ѡ��<a href="https://box.jimu.com/Help/Service" style="color:#ddd;border-bottom:1px solid #ddd">���߿ͷ�</a></span><span class="jimu">�ͷ����ߣ�400-628-1176
+          <!--strong 400-628-1176--></span><span>����ʱ�䣺9:00 - 21:00</span></div>
+    </div>
+    <div class="sup-nav-other">
+      <ul>
+        <li><a href="https://www.jimu.com/Home/LenderEdu" target="_blank">�����˽���</a></li>
+        <li><a href="https://info.jimu.com" target="_blank">��Ӫ����</a></li>
+        <li><a href="https://www.jimu.com/BBS" target="_blank">��ľ̳��</a></li>
+        <li class="download"><a href="https://campaigns.jimu.com/mobile-intro/" target="_blank">���ؿͻ���</a>
+          <div class="qr-container"><img src="https://page.jimu.com/content-dist/images/default/icon-684a9603cd.png" alt="��ľ"/>
+            <h3>��ľ����</h3><img src="https://page.jimu.com/content-dist/images/download-49cf19d568.png" alt="����"/>
+            <p>�ֻ�Ͷ�ʡ�������</p>
+          </div>
+        </li>
+        <li><a href="https://www.jimu.com/User/Login">��¼</a></li>
+        <li><a href="https://www.jimu.com/User/Register?RedirectUrl=https://box.jimu.com/User/OpenPaymentAccount">ע��</a></li>
+      </ul>
+    </div>
+  </div>
+</div>
+<div id="jimu-header" class="jimu-header">
+  <div class="container">
+    <div class="logo"><a href="https://www.jimu.com"><img src="https://page.jimu.com/content-dist/images/default/logo_nav_full-9b4d613b2f.png" alt="��ľ"/></a></div>
+    <div class="jimu-nav-wrap">
+      <ul>
+        <li><a href="https://www.jimu.com" data-nav="home"><span>��ҳ</span></a></li>
+        <li><a href="https://box.jimu.com/Venus/List" data-nav="venus"><span>����Ͷ</span></a></li>
+        <li><a href="https://box.jimu.com/Project/List" data-nav="p2p"><span>��ѡͶ</span></a></li>
+        <!--li-->
+        <!--    a(href='https://loan.jimu.com', data-nav='loan')-->
+        <!--        span ���-->
+        <li><a href="https://www.jimu.com/Home/About" data-nav="about"><span>��Ϣ��¶</span></a></li>
+        <li class="pull-right"><a href="https://www.jimu.com/User/AssetOverview" data-nav="account"><span>�ҵĻ�ľ</span></a></li>
+      </ul>
+    </div>
+  </div>
+</div>
+<div class="online-service hidden-phone"><a href="https://box.jimu.com/Help/Center" target="_blank" class="online-service-title">
+    <div class="social-qq-pure"></div>
+    <h4>���߿ͷ�</h4></a></div><!--[if lt IE 9 ]>
+<link href="https://page.jimu.com/content-dist/css/style-ie-0924570aba.css" rel="stylesheet"/>
+<script src="https://page.jimu.com/content-dist/modules/ie-dialog-9d0df69a93.js"></script><![endif]-->
+<script src="https://page.jimu.com/content-dist/modules/sup-header/header-init-8dc16d38ce.js"></script><div class="alert-info">
+        <div class="container">
+            </div>
+    </div>
+    <input type="hidden" value="361320" id="venusId">
+    <div class="venus-detail" data-version="1">
+        <div class="container clearfix">
+            <div class="info-left">
+                <h2>����ר��15��20180603-2</h2>
+                <div class="project-warning">
+                    <div class="tip">
+                        ������������Ͷ���з���
+                    </div>
+                </div>
+                <div class="venus-info clearfix">
+                    <div class="detail">
+                        <div class="data">
+                            5.8+4<span>%</span>
+                        </div>
+                        <div class="tip">Ŀ������(�껯)<span class="tip-icon">!</span><span class="tip-info">Ŀ�����ʲ�����ʵ�����棬���������</span></div>
+                    </div>
+                    <div class="detail">
+                        <div class="data">15<span>��</span></div>
+                        <div class="tip">Ͷ������</div>
+                    </div>
+                    <div class="detail">
+                        <div class="data">
+                            269<span>��</span>
+                        </div>
+                        <div class="tip">���ڽ��</div>
+                    </div>
+                </div>
+                <div class="venus-line">
+                    <div class="line-rate line-green" style="width: 700px">
+                                <div class="rate-word" data-is-closed="true">
+                                    100%
+                                </div>
+                            </div>
+                        </div>
+                <div class="venus-tips">
+                    ��ͼ����� 1,000Ԫ��
+                    ����100,000Ԫ��
+                    ÿ��ԪԤ������<span class="money">22.55</span>Ԫ
+                    <span class="venus-tips-icon">!<span class="tip-hover">ÿ��Ԫ������Ͷ�ʼ����Ԥ������</span></span>
+                </div>
+                <div class="venus-flow">
+                    <div class="flow-pic"><img src="/Images-dist/Venus/detail_flow-81adbde008.png"></div>
+                    <div class="flow-word">
+                        <span class="join">��������Ͷ</span>
+                        <span class="com">���Ͷ��</span>
+                        <span class="fin">Ͷ�ʽ���</span>
+                        <span class="quit">�˳�����</span>
+                    </div>
+                </div>
+                <div class="card-container">
+                    <div class="card-head" id="card-head">
+                        <div class="tab active" data-attr="intro">��Ʒ����</div>
+                        <div class="tab" data-attr="projects">��Ŀ��Ϣ</div>
+                        <div class="tab" data-attr="mark">�����¼</div>
+                        <div class="tab" data-attr="question">��������</div>
+                    </div>
+                    <div class="card-body">
+                        <div class="intro" id="intro">
+                            <dl class="clearfix">
+                                <dt>����</dt>
+                                <dd>����ר��15��20180603-2</dd>
+                            </dl>
+                            <dl class="clearfix">
+                                <dt>���߽���</dt>
+                                <dd>����ͶΪ��ľ����ƽ̨���Ƴ���һ���Ч���Զ�Ͷ�깤�ߣ������û���Ȩ��ͨ��ϵͳΪ�û�����Զ�Ͷ�꣬�����������û������ݵؽ���Ͷ������󣬽����ﵽ������Ч�н����ʽ�滮��Ŀ�ġ�ʹ�ñ�������Ͷ��ƷĿ�����ʲ�����ʵ�����棬�û������ге��ʽ����ķ��������Ρ������з��գ������������</dd>
+                            </dl>
+                            <dl class="clearfix">
+                                <dt>Ͷ�귶Χ</dt>
+                                <dd>�����û�����ʱѡ���Ĳ�ƷҪ��Ϊ���ݣ��Է���Ҫ���������Ŀ�����Զ�Ͷ�ꡣΪ��������û����ؿ���Ϣ���Զ��ŷ�ʽ֪ͨ�����û�����Ͷ�˻��ڿɲ�ѯ��</dd>
+                            </dl>
+                            <dl class="clearfix">
+                                <dt>���洦��ʽ��Ŀ������</dt>
+                                <dd>
+                                    <ol>
+                                        <li>
+                                                ����֧��5.80
+                                                    + 4%(�껯)
+                                            </li>
+                                        </ol>
+                                </dd>
+                            </dl>
+                            <dl class="clearfix">
+                                <dt>�����</dt>
+                                <dd>15��</dd>
+                            </dl>
+                            <dl class="clearfix">
+                                <dt>��������</dt>
+                                <dd>
+                                    <span style="color:#edb449">����ר����δ��ƽ̨Ͷ�ʹ����û����룻</span>
+                                    
+                                    ��ͼ�����1,000Ԫ��������߼����޶�100,000Ԫ��
+                                </dd>
+                            </dl>
+                            <dl class="clearfix">
+                                <dt>���뿪ʼʱ��</dt>
+                                <dd>ÿ��06:00:00��ʼ</dd>
+                            </dl>
+                            <dl class="clearfix">
+                                <dt>�����ֹʱ��</dt>
+                                <dd>2018��6��03�� 23:00:00</dd>
+                            </dl>
+                            <dl class="clearfix">
+                                <dt>����ʱ��</dt>
+                                <dd>2018��6��17��</dd>
+                            </dl>
+                            <dl class="clearfix">
+                                <dt>�����˳���ʽ</dt>
+                                <dd>ϵͳ��Լ���˳����ڷ���ծȨת����ʵ���˳�Ŀ�ġ��û����е�ծȨת����ɵľ���ʱ���ӽ������������δ�ܳɹ����õ�ծȨ�����û��������У�ϵͳ�Զ��ٴ�������η���ծȨת�ã�ֱ���û��ɹ��˳����˳����ǰ���ʲ���Ϣ���û����С�</dd>
+                            </dl>
+                            <dl class="clearfix">
+                                <dt>��ǰ�˳���ʽ</dt>
+                                <dd>����ڽ�����Ͷ�����޵���ǰ��֧����ǰ�˳������û����벢ͬ��֧����ǰ�˳����ú�ϵͳ�����û�ָ���ծȨת����ʵ���˳�Ŀ�ġ��û����е�ծȨת����ɵľ���ʱ���ӽ������������δ�ܳɹ����õ�ծȨ�����û��������У�ϵͳ�Զ��ٴ�������η���ծȨת�ã�ֱ���û��ɹ��˳����˳����ǰ���ʲ���Ϣ���û����С�</dd>
+                            </dl>
+                            <dl class="clearfix">
+                                <dt>����</dt>
+                                <dd>��ǰ�˳���Ϊ������ x 2.00%��������òμ�<a href="https://contract.jimu.com/Contract/venusTemplate?ruleID=361320" target="_blank">������Ͷ����Э�顷</a></dd>
+                            </dl>
+                            <dl class="clearfix">
+                                <dt>���Ϸ�ʽ</dt>
+                                <dd>����񷶥�ƻ�����Ŀ������<a href="https://box.jimu.com/Guarantee/Dome" target="_blank">��񷶥�ƻ�˵����</a>���ϡ�</dd>
+                            </dl>
+                            <dl class="clearfix">
+                                <dt>����˵��</dt>
+                                <dd>
+                                    <a href="https://contract.jimu.com/Contract/venusTemplate?ruleID=361320" target="_blank">������Ͷ����Э�顷</a>
+                                    <a href="https://www.jimu.com/User/Agreement" target="_blank">��������ʾ����ŵ��</a>
+                                </dd>
+                            </dl>
+                            <div class="plantform-tips-words">Ŀ�����ʲ�����ʵ�����棬���������</div>
+                        </div>
+                        <div class="projects" id="projects">
+                            <table>
+                                <thead>
+                                <tr>
+                                    <th>��Ŀ���</th>
+                                    <th>���ʷ�</th>
+                                    <th>���֤��</th>
+                                    <th class="text-right">�����</th>
+                                    <th class="right">����</th>
+                                </tr>
+                                </thead>
+                                <tbody id="project-list">
+
+                                </tbody>
+                            </table>
+                            <div class="pagination pagination-center" id="projectPages">
+
+                            </div>
+                        </div>
+                        <div class="mark" id="mark">
+                            <table>
+                                    <thead>
+                                    <tr>
+                                        <th>Ͷ����</th>
+                                        <th class="right">������</th>
+                                        <th class="center">��Դ</th>
+                                        <th class="right">����ʱ��</th>
+                                    </tr>
+                                    </thead>
+                                    <tbody id="invest-list">
+
+                                    </tbody>
+                                </table>
+                                <div class="pagination pagination-center" id="pages">
+
+                                </div>
+                            </div>
+                        <div class="question" id="question">
+                            <p><span class="title">ʲôʱ�俪ʼ�������棿</span><br/><span>��������Ͷ�󣬼��ɿ�ʼ�Զ�Ͷ�꣬�ɹ�ƥ����Ŀ�Ľ����տ�ʼ�������档</span></p>
+                            <p><span class="title">���洦��ʽ��</span><br/><span>�����û�����ʱѡ������Ͷ���͵Ĳ�ƷҪ��Ϊ���ݣ������Ϣѭ����Ͷ�ʡ�Ͷ�ʵ��ڻ���ǰ�˳���ϵͳͨ��ծȨת�÷�ʽ�����˳���ծȨת��������ݽ�������������ɹ�ծת�ı���������ص��û�������</span></p>
+                            <p><span class="title">����Ͷ��Ͷ��ʲô��Ʒ��</span><br/><span>�����ʽ�Ͷ�ʵ���ľƽ̨�ϰ����ϸ�ķ��տ��Ʊ�׼��׼ͨ����������Ŀ��</span></p>
+                            <p><span class="title">��ʱ�����˳���</span><br/><span>����ڽ�����Ͷ�ʵ���ǰ����������ǰ�˳���<br/>��������Ͷ��ͬ���ͣ�����ڲ�ͬ���Բ�ͬ��������Ͷ����ҳ�ķ����ʱ��Ϊ׼��</span></p>
+                            <p><span class="title">�����˳����ʽ��ʱ�ص��˻�</span><br/><span>Ͷ�ʵ��ں�ϵͳͨ��ծȨת�õķ�ʽ�����˳��������˳����ʱ���ӽ��������������δ�˳�����������档<br/>���ճɹ�ծת�Ļؿ�����ڵ��ջص��û�������</span></p>
+                            <div><span>��ľ���ӽ�Ϊ��Ϣ����ƽ̨��δ���κ���ʾ��ʾ�ķ�ʽ�Գ������ṩ�������ŵ������Ϣ��������Ӧ���������Ͷ��ƫ�úͷ��ճ����������ж����жϺ��������ߣ������ге��ʽ����ķ��������Ρ������з��գ������������</span></div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="info-right">
+                <div class="invest-container">
+                    <div class="join-tip">״̬<span class="status-green">������</span></div>
+                        <button href="javascript:void(0)" class="venus-btn venus-btn-normal" disabled>���</button>
+                    </div>
+                <h3 class="tip-title">����Ͷ</h3>
+                <div class="tip-flow clearfix">
+                    <div class="tip-ever"><img src="/Images-dist/Venus/icon_tipa-7136b9c7a6.png"><br>�Զ�Ͷ��</div>
+                    <div class="tip-ever"><img src="/Images-dist/Venus/icon_tipb-10ae572ace.png"><br>�ʽ���Ͷ</div>
+                    <div class="tip-ever"><img src="/Images-dist/Venus/icon_tipc-413885e7cc.png"><br>�ؿ��ȶ�</div>
+                </div>
+                <div class="mobile-code"><a href="https://campaigns.jimu.com/mobile-intro/" target="_blank"><img src="/Images-dist/ProjectType/mobile-barcode-new-64c152dcc8.png" alt="����app����"></a></div>
+            </div>
+        </div>
+    </div>
+<div class="container jimu-account-container">
+        <div class="jimu-account-nav-wrap">
+            </div>
+        <div class="jimu-account-content-wrap">
+            </div>
+    </div>
+
+    
+<div class="jm-footer">
+  <div class="footer-container">
+    <div class="footer-info">
+      <div class="footer-links">
+        <div class="link">
+          <ul>
+            <li class="title">���ڻ�ľ</li>
+            <li><a href="https://www.jimu.com/Home/About" target="_blank">��˾���</a></li>
+            <li><a href="https://www.jimu.com/Disclose/Commerce" target="_blank">��֯��Ϣ</a></li>
+            <li><a href="https://www.jimu.com/Disclose/Events" target="_blank">�ش�����</a></li>
+            <li><a href="https://www.jimu.com/Issue/List?Category=News" target="_blank">ý�屨��</a></li>
+            <li><a href="https://www.jimu.com/Home/Info" target="_blank">��������</a></li>
+          </ul>
+        </div>
+        <div class="link">
+          <ul>
+            <li class="title">��ȫ����</li>
+            <li><a href="https://www.jimu.com/Security/Operation" target="_blank">�Ϲ���Ӫ</a></li>
+            <li><a href="https://www.jimu.com/Security/Depository" target="_blank">�ʽ���</a></li>
+            <li><a href="https://www.jimu.com/Security/SafeGuard" target="_blank">���տ���</a></li>
+            <li><a href="https://www.jimu.com/Security/Safety" target="_blank">��Ϣ��ȫ</a></li>
+          </ul>
+        </div>
+        <div class="link">
+          <ul>
+            <li class="title">��Ϣ��¶</li>
+            <li><a href="https://info.jimu.com" target="_blank">��Ӫ����</a></li>
+            <li><a href="https://www.jimu.com/Disclose/Audit" target="_blank">�����Ϣ</a></li>
+            <li><a href="https://www.jimu.com/Disclose/Record" target="_blank">������Ϣ</a></li>
+            <li><a href="https://box.jimu.com/Issue/List?Category=RepaymentNotification" target="_blank">�����</a></li>
+          </ul>
+        </div>
+        <div class="link">
+          <ul>
+            <li class="title">��������</li>
+            <li><a href="https://box.jimu.com/Help/Center" target="_blank">��������</a></li>
+            <li><a href="https://box.jimu.com/Home/Calculator" target="_blank">���������</a></li>
+            <li><a href="https://www.jimu.com/FeeScale" target="_blank">�շѱ�׼</a></li>
+          </ul>
+        </div>
+      </div>
+      <div class="contact-us">
+        <div class="contact-container">
+          <div class="contact-words">
+            <div class="contact-info"><span class="icon"><img src="https://page.jimu.com/content-dist/images/icon/phone-57d23d27b4.png"/></span><span>�ͷ��绰��</span><span class="phone">400-628-1176</span></div>
+            <div class="contact-info"><span class="icon"><img src="https://page.jimu.com/content-dist/images/icon/email-579bb9e094.png"/></span><span>�ͷ����䣺</span><a href="mailto:kefu@jimu.com">kefu@jimu.com</a></div>
+            <div class="contact-info"><span class="icon"><img src="https://page.jimu.com/content-dist/images/icon/time-9eb5afa879.png"/></span><span>����ʱ�䣺</span><span>9:00 - 21:00</span></div>
+            <div class="contact-info"><span class="icon"><img src="https://page.jimu.com/content-dist/images/icon/complain-8a98bd1324.png"/></span><span>Ͷ�ߵ绰��</span><span>(010)6581-8622</span></div>
+            <div class="contact-info"><span class="icon"><img src="https://page.jimu.com/content-dist/images/icon/complain-8a98bd1324.png"/></span><span>Ͷ�����䣺</span><a href="mailto:jmcs@jimu.com">jmcs@jimu.com</a></div>
+          </div>
+          <div class="contact-code">
+            <div><img src="https://page.jimu.com/content-dist/images/TCode-6cf118ddcd.png" class="weixin"/>
+              <p>��ľ����</p>
+            </div>
+            <div><img src="https://page.jimu.com/content-dist/images/PCode-d96acc5f9e.png" class="weixin"/>
+              <p>��ľƴͼ����</p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="copyright">
+      <div data-version='4' class="verify"><span class="icp-head"><a href="http://lead.jimu.com/icp/" target="_blank"><img src="https://page.jimu.com/content-dist/images/cert/icp-3b515381a8.png"/>��ICP֤140334�� ��ICP��12049103��-3</a></span><span class="beian"><a href="http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=11010502030854" target="_blank"><img src="https://page.jimu.com/content-dist/images/cert/beian-010583ba73.png"/>����������11010502030854</a></span><span class="illegal"><a href="http://www.bjp2p.com.cn/info/tousu" target="_blank"><img src="https://page.jimu.com/content-dist/images/cert/hujin-29bd28facd.png"/>�����л���������Э��Υ��Υ����ΪͶ��</a></span><span class="seal"><a href="https://trustsealinfo.verisign.com/splash?form_file=fdf/splash.fdf&amp;dn=www.jimu.com&amp;lang=zh_cn" target="_blank"><img src="https://page.jimu.com/content-dist/images/cert/v_seal-7b3d8802eb.png"/></a></span><span class="cnnic"><a href="https://ss.knet.cn/verifyseal.dll?sn=e13102311010043020g7bl000000&amp;ct=df&amp;a=1&amp;pa=0.03119715587944666" target="_blank"><img src="https://page.jimu.com/content-dist/images/cert/cnnic-ab3646ddb7.png"/></a></span><span class="cert"><a href="https://search.szfw.org/cert/l/CX20141121005617005702" target="_blank"><img src="https://page.jimu.com/content-dist/images/cert/cert-a82b3df3c9.png"/></a></span><span class="wx-seal"><a href="http://www.itrust.org.cn/yz/pjwx.asp?wm=1592382670" target="_blank"><img src="https://page.jimu.com/content-dist/images/cert/wx_seal-9745870f5c.png"/></a></span><span class="wx-satisfaction"><a href="http://www.itrust.org.cn/home/index/satification_certificate/wm/MY2018042601" target="_blank"><img src="https://page.jimu.com/content-dist/images/cert/wx_satisfaction-adeada54c0.png"/></a></span></div>
+      <div class="copyright-footer"><span>�������ڶ�Դ��Ϣ�������޹�˾  2017 Jimu.com |&nbsp</span><a href="http://www.jimugroup.com" target="_blank">��ľƴͼ����</a></div>
+    </div>
+  </div>
+</div><script type="text/javascript">
+        var require = {
+            baseUrl: '/Content-dist',
+            urlArgs: 'ver='+1532597769188,
+            paths: {
+                'jquery': 'bower_components/jquery/dist/jquery.min',
+                'bootstrap': 'bower_components/bootstrap-stylus/js/bootstrap.min',
+                'scrollup': 'bower_components/scrollup/dist/jquery.scrollUp.min',
+                'ui-helper': 'scripts/eden.ui.helper',
+                'domReady': 'bower_components/requirejs-domready/domReady',
+                'accounting': 'bower_components/accounting.js/accounting',
+                'common': 'scripts/common'
+            },
+            shim: {
+                'bootstrap': {
+                    deps: ['jquery']
+                },
+                'scrollup': {
+                    deps: ['jquery']
+                },
+                'ui-helper': {
+                    deps: ['jquery', 'bootstrap']
+                }
+            },
+            waitSeconds: 60,
+            deps: ['scripts/venus/index']
+        };
+    </script>
+    <script src="/Content-dist/bower_components/requirejs/require-16035e47b8.js" async></script>
+<script src="//at.alicdn.com/t/font_2vki31oofhudte29.js"></script>
+    <script src="/Scripts-dist/statistics/settingsForBox-98fba9f936.js" type="text/javascript"></script>
+    <script src="/Scripts-dist/statistics/init-2f611797b0.js" type="text/javascript"></script></body>
+</html>
