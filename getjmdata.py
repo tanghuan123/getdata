@@ -23,7 +23,7 @@ def getdata(data1,data2,data3):
    #listj接收剩余量 listm接收标号
    for j in  listp:
      listm.append(j.split('/')[2])  #获取/标号
-     url = "https://box.jimu.com" + j #拼接标号url
+     url = "https://xxxxxxxx.com" + j #拼接标号url
      with request.urlopen(url) as f:
         data = f.read().decode('utf-8').replace(u'\xa9', u'') #获取标号页面
      with open(data3, 'w') as f:  #标号页面存入data3
