@@ -7,7 +7,7 @@ import time
 import xlrd,xlwt,os,sys,xlutils
 from xlrd import open_workbook
 from xlutils.copy import copy
-#此函数为获取盒子的标号及剩余量
+#此函数为获取网站的标号及剩余量
 def getdata(data1,data2,data3):
 
    with request.urlopen(data1) as f:
@@ -62,7 +62,7 @@ def sendexcl(url,getjm):
 
     excel.save(url)
 
-getjm = getdata("https://box.jimu.com/Venus/List","jmgetlog","jmget1log") #获取剩余量标号字典
+getjm = getdata("https://xxxxxxxxxxxxxx","jmgetlog","jmget1log") #获取剩余量标号字典
 sendexcl("F:\JIMU\JMQST.xlsx",getjm) #excel存入字典
 
    
